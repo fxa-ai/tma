@@ -1,0 +1,1 @@
+import{W as t}from"./index.BtZ2aNdV.js";t.downloadFile({url:"https://fxa.app/favicon.png",file_name:"favicon.png"});document.getElementById("contact")?.addEventListener("click",()=>{t.requestContact()});alert(t.initData);
